@@ -1,0 +1,43 @@
+
+060ef78 refs/remotes/origin/master@{0}: update by push
+060ef78 refs/heads/master@{0}: commit: Add gitignore
+060ef78 HEAD@{0}: commit: Add gitignore
+84a1f4e refs/heads/master@{1}: commit: MD-bugfix
+84a1f4e HEAD@{1}: commit: MD-bugfix
+f9f091f refs/heads/master@{2}: commit: MD
+f9f091f HEAD@{2}: commit: MD
+5395a35 refs/heads/master@{3}: commit: Reflog
+5395a35 HEAD@{3}: commit: Reflog
+890aa8e refs/heads/master@{4}: merge develop: Fast-forward
+890aa8e HEAD@{4}: merge develop: Fast-forward
+539d368 HEAD@{5}: checkout: moving from develop to master
+890aa8e HEAD@{6}: checkout: moving from master to develop
+539d368 HEAD@{7}: checkout: moving from develop to master
+890aa8e refs/heads/develop@{0}: commit (merge): Fixed conflict
+890aa8e HEAD@{8}: commit (merge): Fixed conflict
+3767552 refs/heads/develop@{1}: merge images: Fast-forward
+3767552 HEAD@{9}: merge images: Fast-forward
+b66377e HEAD@{10}: checkout: moving from styles to develop
+0ec2f03 refs/heads/styles@{0}: commit: Styles-2
+0ec2f03 HEAD@{11}: commit: Styles-2
+ef44abe HEAD@{12}: checkout: moving from images to styles
+3767552 HEAD@{13}: checkout: moving from styles to images
+ef44abe refs/heads/styles@{1}: commit: Styles-1
+ef44abe HEAD@{14}: commit: Styles-1
+b66377e HEAD@{15}: checkout: moving from images to styles
+3767552 HEAD@{16}: checkout: moving from styles to images
+b66377e refs/heads/styles@{2}: branch: Created from HEAD
+b66377e HEAD@{17}: checkout: moving from develop to styles
+b66377e HEAD@{18}: checkout: moving from images to develop
+3767552 refs/heads/images@{0}: commit: Imgs-2
+3767552 HEAD@{19}: commit: Imgs-2
+514ea23 refs/heads/images@{1}: commit: Imgs-1
+514ea23 HEAD@{20}: commit: Imgs-1
+b66377e refs/heads/images@{2}: branch: Created from HEAD
+b66377e HEAD@{21}: checkout: moving from develop to images
+b66377e refs/heads/develop@{2}: commit: Dev-1
+b66377e HEAD@{22}: commit: Dev-1
+539d368 refs/heads/develop@{3}: branch: Created from HEAD
+539d368 HEAD@{23}: checkout: moving from master to develop
+539d368 refs/heads/master@{5}: commit (initial): First commit
+539d368 HEAD@{24}: commit (initial): First commit
